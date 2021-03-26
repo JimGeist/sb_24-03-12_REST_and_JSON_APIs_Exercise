@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(72,72,94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #CCC;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+img{
+    max-width: 200px;
+    padding: 3px;
+    display: block;
+    border-radius: 1.00rem;
+}
+
+li {
+    font-size: 1.25rem;
+    font-weight: normal;
+}
+
+label {
+    margin-top: 1.00rem;
+    display: block;
+    font-size: 1.00rem;
+    font-weight: bold;
+}
+
+input {
+    display: block;
+    font-size: 1.25rem;
+    font-weight: normal;
+    width: 20.00rem;
+}
+
+.btn {
+    margin-top: 1.00rem;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 1.00rem;
+    border-radius: 0.75rem;
+}
+
+.btn-add {
+    background-color: rgb(0, 128, 0);
+    font-weight: bold;
+    color: #efefef;
+}
+
+.cupcake {
+    float: left;
+    margin: 0.75rem;
+    padding: 0.50rem;
+    border-radius: 0.75rem;
+    border: #008000;
+    border-style: solid;
+    border-width: 0.20rem;
+    border-radius: 1.20rem;
+}
+
+.error {
+    margin-top: 1.00rem;
+    display: block;
+    color: #D00000;
+    font-size: 1.00rem;
+}
+
+.flashes {
+    list-style-type: none;
+}
+
+.hidden {
+    display: none;
+}
